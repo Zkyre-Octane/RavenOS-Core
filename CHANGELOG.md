@@ -1,4 +1,4 @@
-# Changelog
+# CHANGELOG
 
 ## v0.1.0 — Minimal Core Release
 - Added bootscreen system

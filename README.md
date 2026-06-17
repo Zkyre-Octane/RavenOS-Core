@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="">
+</p>
+
+
 # RavenOS Minimal Core — ESP32 / Flipper‑Style Runtime
 
 RavenOS is a lightweight, modular operating environment inspired by Flipper Zero’s UX philosophy and built specifically for the ESP32 platform.  

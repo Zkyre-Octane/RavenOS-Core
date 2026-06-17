@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Zkyre-Octane/RavenOS-Core/blob/main/RavenOS/assets/logo/ravenos-logo.png">
 </p>
 
 
